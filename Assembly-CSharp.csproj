@@ -67,7 +67,7 @@
     <Compile Include="Assets\Scripts\BasicRigidBodyPush.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\ThirdPersonController.cs" />
-    <Compile Include="Assets\ScaleDetection.cs" />
+    <Compile Include="Assets\Scripts\ScaleDetection.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\GitHub\\UI-Assessment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9EED179-4C31-B7ED-8A29-FFBDEFB584FA}|Assembly-CSharp.csproj|c:\\users\\andre\\documents\\github\\ui-assessment\\assets\\scaledetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9EED179-4C31-B7ED-8A29-FFBDEFB584FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scaledetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9EED179-4C31-B7ED-8A29-FFBDEFB584FA}|Assembly-CSharp.csproj|c:\\users\\andre\\documents\\github\\ui-assessment\\assets\\scripts\\scaledetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9EED179-4C31-B7ED-8A29-FFBDEFB584FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scaledetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9EED179-4C31-B7ED-8A29-FFBDEFB584FA}|Assembly-CSharp.csproj|C:\\Users\\andre\\Documents\\GitHub\\UI-Assessment\\assets\\scripts\\menuselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ScaleDetection.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\UI-Assessment\\Assets\\ScaleDetection.cs",
-              "RelativeDocumentMoniker": "Assets\\ScaleDetection.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\UI-Assessment\\Assets\\ScaleDetection.cs",
-              "RelativeToolTip": "Assets\\ScaleDetection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAApAAAA",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\UI-Assessment\\Assets\\Scripts\\ScaleDetection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScaleDetection.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\UI-Assessment\\Assets\\Scripts\\ScaleDetection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScaleDetection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T12:51:34.318Z",
+              "WhenOpened": "2024-08-18T04:24:30.556Z",
               "EditorCaption": ""
             },
             {
@@ -43,7 +43,8 @@
               "RelativeToolTip": "Assets\\Scripts\\MenuSelection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T11:58:30.99Z"
+              "WhenOpened": "2024-08-17T11:58:30.99Z",
+              "EditorCaption": ""
             }
           ]
         }
