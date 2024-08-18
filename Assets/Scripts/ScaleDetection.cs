@@ -9,6 +9,7 @@ public class ScaleDetection : MonoBehaviour
     //Defining game objects
     [SerializeField] GameObject FirstPromt;
     [SerializeField] GameObject SecondPromt;
+    [SerializeField] GameObject glassSound;
     public TextMeshProUGUI Objective;
 
     //Detects when the player has entered a collider
@@ -19,6 +20,8 @@ public class ScaleDetection : MonoBehaviour
             FirstPromt.SetActive(false); //Will turn off the "FirstPromt" game object
             SecondPromt.SetActive(true); //Will turn on the "SecondPromt" game object
             Objective.color = Color.green; //Will change the colour of the objective text
+            GameObject glass = Instantiate(glassSound, transform.position, Quaternion.identity); //Plays the glass shattering sound
+
         }
     }
 
